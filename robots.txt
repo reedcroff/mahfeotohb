@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oniunoozi.mennabah.com/sitemap.xml
